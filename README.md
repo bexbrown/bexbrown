@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bexbrown
-- 👀 I’m interested in Front End Development, UI & UX Design
-- 🌱 I’m currently learning Git, Emmet, Javascript
+- 👀 I’m interested in Web Development & Design
+- 🌱 I’m currently learning Git & Javascript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: LinkedIn or Email 
 
