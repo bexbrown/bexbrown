@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bexbrown
 - 👀 I’m interested in Web Development & Design
-- 🌱 I’m currently learning Javascript & Git
+- 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: LinkedIn or Email 
 
