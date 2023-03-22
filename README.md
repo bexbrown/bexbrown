@@ -8,14 +8,12 @@ I love the process of developing creative websites and creating exceptional user
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bexbrown)
 
 ## 🔭 I'm currently working on
-- Old Projects
-- Personal Portfolio 
-- Cash Out Calculator
+- Full Stack Open
 
 ## 🌱 I'm currently learning
 - TypeScript
-- Tailwinds CSS
-- Balsamiq
+- React
+- Tailwind CSS
 
 ## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
