@@ -8,7 +8,8 @@ I love the process of developing creative websites and creating exceptional user
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bexbrown)
 
 ## 🔭 I'm currently working on
-- Full Stack Open
+- Frontend Mentor
+- Multi-step form
 
 ## 🌱 I'm currently learning
 - TypeScript
